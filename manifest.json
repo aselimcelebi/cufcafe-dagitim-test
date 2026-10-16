@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "kanal": "test",
+  "surum": "1.3.1",
+  "paket_tipi": "dosya",
+  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.1/CufCafePro-Update-1.3.1.zip",
+  "sha256": "cc0bdef64038f1a0fd3b2fe4d90eb914c3930d34e739fe670bda5d7285b8be75",
+  "dosya_boyut": 9057459,
+  "baslik": "CufCafe Pro 1.3.1",
+  "notlar": "- 9999'dan fazla üyesi olan kafelerde yeni üye eklenememe hatası düzeltildi\n- Satışı olan ürün silinince oluşan hata düzeltildi (ürün pasife alınıyor)\n- Ayarlardaki görsel önizlemeleri düzeltildi\n- Güncelleyici artık veritabanı şeması ve sunucu dosyalarını da güncelleyebiliyor",
+  "zorunlu": false,
+  "yayin_tarihi": "2026-10-16T16:41:28.238Z",
+  "imza": "c4eLq7IngO88GL1w50q26r5sTgybuOlIH0RBOwsp8sb4r4WXw3eDmX2YYrWPWYmU49l+lXJkRXR+iZdM4ZZ7CA=="
+}
