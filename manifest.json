@@ -1,14 +1,20 @@
 {
   "v": 1,
   "kanal": "test",
-  "surum": "1.3.1",
+  "surum": "1.3.2",
   "paket_tipi": "dosya",
-  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.1/CufCafePro-Update-1.3.1.zip",
-  "sha256": "cc0bdef64038f1a0fd3b2fe4d90eb914c3930d34e739fe670bda5d7285b8be75",
-  "dosya_boyut": 9057459,
-  "baslik": "CufCafe Pro 1.3.1",
-  "notlar": "- 9999'dan fazla üyesi olan kafelerde yeni üye eklenememe hatası düzeltildi\n- Satışı olan ürün silinince oluşan hata düzeltildi (ürün pasife alınıyor)\n- Ayarlardaki görsel önizlemeleri düzeltildi\n- Güncelleyici artık veritabanı şeması ve sunucu dosyalarını da güncelleyebiliyor",
+  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.2/CufCafePro-Update-1.3.2.zip",
+  "sha256": "7aaaca993fbe353105082ef25650b9e3bd223900e839e6891e163c0f3d9d307c",
+  "dosya_boyut": 9068710,
+  "baslik": "CufCafe Pro 1.3.2",
+  "notlar": "- Client'tan gelen mesajlar panelde kayboluyordu, düzeltildi\n- Süreli oturum artık peşin: açılışta ve süre eklemede kasaya yazılır\n- Puan çevirme sadece o masada oturumu açık üyeye çalışır\n- Masa kapanınca hareketsizlik (zzz) işareti kalıyordu, düzeltildi\n- Client'lar artık panelden güncellenebilir (Ayarlar > Güncelleme Denetimi ya da sağ tık > Diğer komutlar)\n- Paylaşım klasörü: Ayarlar > Client Ayarları > Programlar'a 'Paylaşım klasörü' ekleyin\n- Üçgen oyunlarında kayıt ve oyun klasörü butonları",
   "zorunlu": false,
-  "yayin_tarihi": "2026-10-16T16:41:28.238Z",
-  "imza": "c4eLq7IngO88GL1w50q26r5sTgybuOlIH0RBOwsp8sb4r4WXw3eDmX2YYrWPWYmU49l+lXJkRXR+iZdM4ZZ7CA=="
+  "yayin_tarihi": "2026-10-16T17:56:31.861Z",
+  "client": {
+    "surum": "1.3.2",
+    "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.2/CufCafe-Client-Setup-1.3.2.exe",
+    "sha256": "fc82c65e070ad3647b2572178c16c73934a1047cd2c7fe6b74a68dded08cf5c1",
+    "dosya_boyut": 83304702
+  },
+  "imza": "2eLgpEAvV5jF6BGibjIy7Gl9lkf+gZw8SvmA114T0w9KkyjKWZ1s7Lf17Evbpo6hJ6X/gN5PJ73Ji711CWYWAA=="
 }
