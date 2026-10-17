@@ -1,20 +1,20 @@
 {
   "v": 1,
   "kanal": "test",
-  "surum": "1.3.2",
+  "surum": "1.3.3",
   "paket_tipi": "dosya",
-  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.2/CufCafePro-Update-1.3.2.zip",
-  "sha256": "7aaaca993fbe353105082ef25650b9e3bd223900e839e6891e163c0f3d9d307c",
-  "dosya_boyut": 9068710,
-  "baslik": "CufCafe Pro 1.3.2",
-  "notlar": "- Client'tan gelen mesajlar panelde kayboluyordu, düzeltildi\n- Süreli oturum artık peşin: açılışta ve süre eklemede kasaya yazılır\n- Puan çevirme sadece o masada oturumu açık üyeye çalışır\n- Masa kapanınca hareketsizlik (zzz) işareti kalıyordu, düzeltildi\n- Client'lar artık panelden güncellenebilir (Ayarlar > Güncelleme Denetimi ya da sağ tık > Diğer komutlar)\n- Paylaşım klasörü: Ayarlar > Client Ayarları > Programlar'a 'Paylaşım klasörü' ekleyin\n- Üçgen oyunlarında kayıt ve oyun klasörü butonları",
+  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.3/CufCafePro-Update-1.3.3.zip",
+  "sha256": "45a0c6a6822e919f7bf793b59127f4c47abaa07bdebe72fb85888799d619cd49",
+  "dosya_boyut": 9067717,
+  "baslik": "Ses, oyun klasörleri, sipariş ve ayarlar düzenlemesi",
+  "notlar": "- Bakiyesi yetmeyen üyenin siparişi artık 'gönderildi' görünmüyor; sepette uyarı çıkıyor\n- Sağ tık ve üst çubuktan üye oturumu açma düzeltildi\n- Ses kontrolü gerçek sistem sesini okuyor ve ayarlıyor (hub ve klasik menüde)\n- Oyun/program açılınca hub arkaya geçiyor, oyun kapanınca geri geliyor\n- Üçgen oyunlarında açılışta kalan beyaz Vivaldi penceresi düzeltildi\n- Üçgen oyun kartlarında kayıt klasörü ve oyun klasörü butonları\n- Ayarlar sadeleştirildi (tekrarlanan ve kullanılmayan ayarlar kaldırıldı)",
   "zorunlu": false,
-  "yayin_tarihi": "2026-10-16T17:56:31.861Z",
+  "yayin_tarihi": "2026-10-17T20:25:59.188Z",
   "client": {
-    "surum": "1.3.2",
-    "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.2/CufCafe-Client-Setup-1.3.2.exe",
-    "sha256": "fc82c65e070ad3647b2572178c16c73934a1047cd2c7fe6b74a68dded08cf5c1",
-    "dosya_boyut": 83304702
+    "surum": "1.3.3",
+    "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.3/CufCafe-Client-Setup-1.3.3.exe",
+    "sha256": "29390ba7cd91d58f2463759dc4ed2b3bc779a333e48de2401d7161e3a238b487",
+    "dosya_boyut": 83306588
   },
-  "imza": "2eLgpEAvV5jF6BGibjIy7Gl9lkf+gZw8SvmA114T0w9KkyjKWZ1s7Lf17Evbpo6hJ6X/gN5PJ73Ji711CWYWAA=="
+  "imza": "VeCHTtJ6pllbqTgchZ24QrhDQIE3fX728wlK23zddTeibfUrFElF/JR4349m6V+27+2j7v6r2bVlqCc+1lWHCQ=="
 }
