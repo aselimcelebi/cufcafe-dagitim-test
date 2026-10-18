@@ -1,20 +1,20 @@
 {
   "v": 1,
   "kanal": "test",
-  "surum": "1.3.9",
+  "surum": "1.3.10",
   "paket_tipi": "dosya",
-  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.9/CufCafePro-Update-1.3.9.zip",
-  "sha256": "7ee8f6bd43c17edcbe0394b7c6b440e7e966f02aabadb637c9bffad4736265e8",
-  "dosya_boyut": 9562422,
-  "baslik": "Tek kurulum ve hazır uzak masaüstü (VNC)",
-  "notlar": "- Tek kurulum dosyası: kurulumda Yönetim bilgisayarı ya da Oyun bilgisayarı seçilir\n- Uzak masaüstü hazır geliyor: VNC şifresi sunucuda otomatik oluşur, masalar açılışta kendine yazar; elle şifre girmek gerekmez\n- VNC Viewer yönetim bilgisayarı kurulumuyla birlikte gelir",
+  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.10/CufCafePro-Update-1.3.10.zip",
+  "sha256": "78ff91238d059ac2be408afd09d623fa9301ff46b84267ac1735c135b66b62be",
+  "dosya_boyut": 9562549,
+  "baslik": "Oyun başlatma düzeltmesi",
+  "notlar": "- Oyunlar artık arada Vivaldi açmadan başlıyor: masa Üçgen'den oyunun linkini kendisi alıp Windows'a veriyor (bir sorun olursa eski yol yedekte)\n- Panel ilk açılışta eski e-posta/şifre ekranını göstermiyor; sunucu açılana kadar bekliyor",
   "zorunlu": false,
-  "yayin_tarihi": "2026-10-18T18:09:01.030Z",
+  "yayin_tarihi": "2026-10-18T19:23:52.171Z",
   "client": {
-    "surum": "1.3.9",
-    "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.9/CufCafe-Client-Setup-1.3.9.exe",
-    "sha256": "d5553a2cea43c4629b9376ac9cc1958c6a66fd90311c9ee5c27f520293b25031",
-    "dosya_boyut": 83308688
+    "surum": "1.3.10",
+    "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.10/CufCafe-Client-Setup-1.3.10.exe",
+    "sha256": "224017b8d320ba50c0c908643c98acbd093078a2d054b173c686b22e4d3dc5f8",
+    "dosya_boyut": 83309447
   },
-  "imza": "I+mY5HGcRB9X61INHzH1eQ4hg+rzgpwnR6haBXepKr93SRUx//ukb/DTHfwNDF3tG9RvoOj1ZrNkO5onsADIBw=="
+  "imza": "XVz5V42kWKbjltRac30EmgQxvndHM7HY5XvQPimbCbAs2UJkxVFwza53a7fJdLqSyk66Y30Sr4dK+7GFJonLBg=="
 }
