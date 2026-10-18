@@ -1,20 +1,20 @@
 {
   "v": 1,
   "kanal": "test",
-  "surum": "1.3.6",
+  "surum": "1.3.7",
   "paket_tipi": "dosya",
-  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.6/CufCafePro-Update-1.3.6.zip",
-  "sha256": "73c3f437dd959e6c9ab96b190a57bae3da8cc73af42b8da6e11b0b2e08ae297c",
-  "dosya_boyut": 9093698,
-  "baslik": "Merkezi reklam, masa listesi, platformlar",
-  "notlar": "- Reklam alanında CufCafe'nin GitHub'dan dağıttığı reklamlar döner (görsel ve video); her tam gösterim ve tıklama sayılır\n- Panel: hangi masanın seçili olduğu toolbar'ın başında yazıyor; masa seçilmeden masaya yönelik butonlar pasif\n- Panel: masa arama (Enter ile seçer) ve Harita / Liste görünümü\n- Hub: öne çıkan oyun alanı küçüldü, Steam/Epic/Discord gibi platformlar ayrı satırda",
+  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.7/CufCafePro-Update-1.3.7.zip",
+  "sha256": "04e1362b6a3c388f3b2a679c926bfc88834de1425ee1511ff6e74d3a1c1aa5ad",
+  "dosya_boyut": 9093893,
+  "baslik": "Yeni masa kartları",
+  "notlar": "- Masa kartları oturum türüne göre kendi rengini ve ikonunu alıyor (süresiz, süreli, üye, ücretsiz, yönetici)\n- Köşede süreli oturumda kalan süre, diğerlerinde o ana kadarki tutar\n- Kapalı ve boş masalar aynı düzende, adı tam okunur; boş masa mavi\n- Renk ve ikonlar Ayarlar > Görünüm > Masa Durumları'ndan değiştirilebilir (artık karta tam yansıyor)",
   "zorunlu": false,
-  "yayin_tarihi": "2026-10-18T13:23:10.337Z",
+  "yayin_tarihi": "2026-10-18T15:01:44.410Z",
   "client": {
-    "surum": "1.3.6",
-    "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.6/CufCafe-Client-Setup-1.3.6.exe",
-    "sha256": "4347b2805a32dc5abaed80fa99c715e7d82f2edeb2d506e98f7cd197a1d677a0",
-    "dosya_boyut": 83307994
+    "surum": "1.3.7",
+    "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.7/CufCafe-Client-Setup-1.3.7.exe",
+    "sha256": "e0717f981f86188fb59cc481d9e9e9acc96ef66c79903fdd8002efa19855e994",
+    "dosya_boyut": 83307701
   },
-  "imza": "DX5SgLFDjkSJamy31F4vJL8Zka2lpJdIYf4gr9h1Fq+byuOLz+fSY/WXCIHAsPtujzs0JOAZbrpvIWM/DwTNBQ=="
+  "imza": "jk4ZEgxsYnMnYSsmFgUEUv4aczJdTUznoM/+GRhiocUvSfuPXjF6Wf8Z8uHFJ7b2mQ2OPFYwk4Q9FM118+I2CQ=="
 }
