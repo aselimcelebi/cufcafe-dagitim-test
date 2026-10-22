@@ -1,20 +1,20 @@
 {
   "v": 1,
   "kanal": "test",
-  "surum": "1.3.12",
+  "surum": "1.3.14",
   "paket_tipi": "dosya",
-  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.12/CufCafePro-Update-1.3.12.zip",
-  "sha256": "d3b9a940dc9e248f5eef6868f789312190ceea5ead66e49492b07af5eca1c2f4",
-  "dosya_boyut": 9567150,
-  "baslik": "Client kendiliğinden açılır + panel tasarımı",
-  "notlar": "- Client görev yöneticisinden kapatılırsa kendiliğinden yeniden açılır, oturum kaldığı yerden devam eder\n- Masa kartları yuvarlak ve hafif bombeli; masa adı ve durum kartın altında (taşmaz); sipariş/yardım rozeti kartın köşesinde\n- Üst çubukta sık işlemler, gerisi 'Diğer' menüsünde; hangilerinin görüneceği Ayarlar > Görünüm'den seçilir\n- Kırmızı sadece kritik işlemlerde ve uyarılarda; log'da renkli yazı, kapalıyken son 3 satır\n- Sipariş ve bekleme sırası mini haritanın üstünde tek panelde\n- Mesaj: kısayol, üst çubuk ya da sağ tık doğrudan seçili masa(lar)a",
+  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.14/CufCafePro-Update-1.3.14.zip",
+  "sha256": "1416d928803da4ea45552b1f2acff03067638b1c7492bf629110504a9bb7ef35",
+  "dosya_boyut": 9585590,
+  "baslik": "CufCafe Pro 1.3.14",
+  "notlar": "",
   "zorunlu": false,
-  "yayin_tarihi": "2026-10-21T20:37:13.393Z",
+  "yayin_tarihi": "2026-10-22T17:48:38.431Z",
   "client": {
-    "surum": "1.3.12",
-    "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.12/CufCafe-Client-Setup-1.3.12.exe",
-    "sha256": "e6d42a544d4ec97abf5e1bd96902f082bb6bb9a426d0f26310246eb2f0edf973",
-    "dosya_boyut": 83310747
+    "surum": "1.3.14",
+    "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.14/CufCafe-Client-Setup-1.3.14.exe",
+    "sha256": "2e0e713fd3aec2934e80e2392ea1c4ef794414fb27427c60ed5e455ad7ee4bc1",
+    "dosya_boyut": 83311749
   },
-  "imza": "yCZKhX9D4aXvCS5jw2mTZ+17zJ3VBJED5NJiNUXdEOYmrQeK8/OUWsYB2MVoSl1rPgoAEZySacGNPVRyWy3HBw=="
+  "imza": "DVKx5O1362jWD1x/1DxfHfvMwim9Il+hE3oifMWABEGgsaf1wsfUIzltfyYahryxfVhbsVqw5SamT3XlnQWrDg=="
 }
