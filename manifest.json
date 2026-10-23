@@ -1,20 +1,20 @@
 {
   "v": 1,
   "kanal": "test",
-  "surum": "1.3.21",
+  "surum": "1.3.23",
   "paket_tipi": "dosya",
-  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.21/CufCafePro-Update-1.3.21.zip",
-  "sha256": "31024e19440192eba944fbe4aa1bb878d33f531cdb08f4caabc64b9766a88b10",
-  "dosya_boyut": 9809386,
-  "baslik": "CufCafe Pro 1.3.21",
+  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.23/CufCafePro-Update-1.3.23.zip",
+  "sha256": "7abe380c90e1e0eea46ffc4880b9dd324e6d95f48c4cc09918acad6d47fefd20",
+  "dosya_boyut": 9810641,
+  "baslik": "CufCafe Pro 1.3.23",
   "notlar": "",
   "zorunlu": false,
-  "yayin_tarihi": "2026-10-23T17:37:01.686Z",
+  "yayin_tarihi": "2026-10-23T19:12:28.032Z",
   "client": {
-    "surum": "1.3.21",
-    "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.21/CufCafe-Client-Setup-1.3.21.exe",
-    "sha256": "ed3bb4f3d6ff063c9c2ebf69bc481ea480a8588b9589ead8c069e9cf1861bb29",
-    "dosya_boyut": 83312331
+    "surum": "1.3.23",
+    "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.23/CufCafe-Client-Setup-1.3.23.exe",
+    "sha256": "a2d26c8c7bb6e33faaf8636b04152a4e43600eb80f348f1182c378d37b2c6534",
+    "dosya_boyut": 83314099
   },
-  "imza": "ezofy3ugsbAx/JS9NO2B6OWgBvUfdMgQHN80JMZAka56YQKa2C3If9yzhokufcvNnytHtzA809sqdKU7Ui5ICg=="
+  "imza": "NpgLgWXevvOcKeWcKnYZagW9GZgeSn43Kz+LmDDIvDk7cPYKUSXzWKsdXUktjIHMabJa5RXu3fCmoRZdj10YAg=="
 }
