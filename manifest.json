@@ -1,14 +1,14 @@
 {
   "v": 1,
   "kanal": "test",
-  "surum": "1.3.25",
+  "surum": "1.3.26",
   "paket_tipi": "dosya",
-  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.25/CufCafePro-Update-1.3.25.zip",
-  "sha256": "88703c3c1616d4f65c9a50243b49fa693cf2fb7db838e0d013df0a197704e8fb",
-  "dosya_boyut": 9824735,
-  "baslik": "CufCafe Pro 1.3.25",
-  "notlar": "Yeni logo (C içinde monitör) panel başlığında ve hub köşesinde. Araç çubuğu: ikon üstte yazı altta sıkı düzen, gruplar ayraçla ayrılır, sığmayanlar Diğer menüsüne düşer.",
+  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.26/CufCafePro-Update-1.3.26.zip",
+  "sha256": "556a3a71315b422eb9a1d89d2f0cc75facdd5c9ccf62bae9fadc37d373967fcf",
+  "dosya_boyut": 9831072,
+  "baslik": "CufCafe Pro 1.3.26",
+  "notlar": "PS Oyun Kataloğu: Ayarlar > PlayStation altında oyunlar ve hangi konsolda oldukları. Ana ekranda PlayStation masası seçilince o konsolun oyunları sol panelde görünür.",
   "zorunlu": false,
-  "yayin_tarihi": "2026-11-14T18:21:24.338Z",
-  "imza": "g2RHUihmQv+cN+XwPBqefB4CbJcJqXA1B0aoYohn0+hILvus/ZJL1w3c1pM3xOa5rfN6WndN8Wr9aWlcmW4vDQ=="
+  "yayin_tarihi": "2026-11-14T20:27:25.809Z",
+  "imza": "WDGam8j+U/0RTGjoWGX4n+jL5J5lqGYDNtRbiX+Kc8IGaipZ0+ISZac1/v34doQq8MV1YyFVe3NSezjUWvxxCA=="
 }
