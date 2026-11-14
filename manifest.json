@@ -1,20 +1,14 @@
 {
   "v": 1,
   "kanal": "test",
-  "surum": "1.3.23",
+  "surum": "1.3.24",
   "paket_tipi": "dosya",
-  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.23/CufCafePro-Update-1.3.23.zip",
-  "sha256": "7abe380c90e1e0eea46ffc4880b9dd324e6d95f48c4cc09918acad6d47fefd20",
-  "dosya_boyut": 9810641,
-  "baslik": "CufCafe Pro 1.3.23",
-  "notlar": "",
+  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.24/CufCafePro-Update-1.3.24.zip",
+  "sha256": "59562f48ed00cc49ea23f1983a63737d09872425d34707ef75b1262bd6249c18",
+  "dosya_boyut": 9822787,
+  "baslik": "CufCafe Pro 1.3.24",
+  "notlar": "Yeni hub düzeni: üst bar, dönen öne çıkan oyun, Şimdi popüler, Kasa ile iletişim kartları (Sipariş ver, Mesaj gönder, Görevli çağır, Süre uzat). Ayarlar > Client Ayarları > Client Görünümü: Canlı/Sakin palet ve vurgu rengi, kaydedince bütün masalara anında gider. Süre uzatma isteği panelde onaylanır.",
   "zorunlu": false,
-  "yayin_tarihi": "2026-10-23T19:12:28.032Z",
-  "client": {
-    "surum": "1.3.23",
-    "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.23/CufCafe-Client-Setup-1.3.23.exe",
-    "sha256": "a2d26c8c7bb6e33faaf8636b04152a4e43600eb80f348f1182c378d37b2c6534",
-    "dosya_boyut": 83314099
-  },
-  "imza": "NpgLgWXevvOcKeWcKnYZagW9GZgeSn43Kz+LmDDIvDk7cPYKUSXzWKsdXUktjIHMabJa5RXu3fCmoRZdj10YAg=="
+  "yayin_tarihi": "2026-11-14T16:51:35.256Z",
+  "imza": "HONl0YnwLSfsSK5EY746aeVs//QKGItUkm5BALfqYkQ/8cYQ7R3zFUUozqCB2Yk/ajW+i3BYWhAPhXSQfVYMAA=="
 }
