@@ -1,14 +1,14 @@
 {
   "v": 1,
   "kanal": "test",
-  "surum": "1.3.24",
+  "surum": "1.3.25",
   "paket_tipi": "dosya",
-  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.24/CufCafePro-Update-1.3.24.zip",
-  "sha256": "59562f48ed00cc49ea23f1983a63737d09872425d34707ef75b1262bd6249c18",
-  "dosya_boyut": 9822787,
-  "baslik": "CufCafe Pro 1.3.24",
-  "notlar": "Yeni hub düzeni: üst bar, dönen öne çıkan oyun, Şimdi popüler, Kasa ile iletişim kartları (Sipariş ver, Mesaj gönder, Görevli çağır, Süre uzat). Ayarlar > Client Ayarları > Client Görünümü: Canlı/Sakin palet ve vurgu rengi, kaydedince bütün masalara anında gider. Süre uzatma isteği panelde onaylanır.",
+  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.25/CufCafePro-Update-1.3.25.zip",
+  "sha256": "88703c3c1616d4f65c9a50243b49fa693cf2fb7db838e0d013df0a197704e8fb",
+  "dosya_boyut": 9824735,
+  "baslik": "CufCafe Pro 1.3.25",
+  "notlar": "Yeni logo (C içinde monitör) panel başlığında ve hub köşesinde. Araç çubuğu: ikon üstte yazı altta sıkı düzen, gruplar ayraçla ayrılır, sığmayanlar Diğer menüsüne düşer.",
   "zorunlu": false,
-  "yayin_tarihi": "2026-11-14T16:51:35.256Z",
-  "imza": "HONl0YnwLSfsSK5EY746aeVs//QKGItUkm5BALfqYkQ/8cYQ7R3zFUUozqCB2Yk/ajW+i3BYWhAPhXSQfVYMAA=="
+  "yayin_tarihi": "2026-11-14T18:21:24.338Z",
+  "imza": "g2RHUihmQv+cN+XwPBqefB4CbJcJqXA1B0aoYohn0+hILvus/ZJL1w3c1pM3xOa5rfN6WndN8Wr9aWlcmW4vDQ=="
 }
