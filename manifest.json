@@ -1,14 +1,14 @@
 {
   "v": 1,
   "kanal": "test",
-  "surum": "1.3.26",
+  "surum": "1.3.27",
   "paket_tipi": "dosya",
-  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.26/CufCafePro-Update-1.3.26.zip",
-  "sha256": "556a3a71315b422eb9a1d89d2f0cc75facdd5c9ccf62bae9fadc37d373967fcf",
-  "dosya_boyut": 9831072,
-  "baslik": "CufCafe Pro 1.3.26",
-  "notlar": "PS Oyun Kataloğu: Ayarlar > PlayStation altında oyunlar ve hangi konsolda oldukları. Ana ekranda PlayStation masası seçilince o konsolun oyunları sol panelde görünür.",
+  "indir_url": "https://github.com/aselimcelebi/cufcafe-dagitim-test/releases/download/v1.3.27/CufCafePro-Update-1.3.27.zip",
+  "sha256": "57593d475c42442bb7a098f53b4859da7ab67eb0c4d01d8429ab776414b6e169",
+  "dosya_boyut": 9832586,
+  "baslik": "CufCafe Pro 1.3.27",
+  "notlar": "Hub alt çubuğu yüzen cam dock oldu: güç, saat ve tarih, açık pencereler, arka plandaki programlar, ses, dil, sepet ve mesaj grupları. Palet ve vurgu rengine uyar.",
   "zorunlu": false,
-  "yayin_tarihi": "2026-11-14T20:27:25.809Z",
-  "imza": "WDGam8j+U/0RTGjoWGX4n+jL5J5lqGYDNtRbiX+Kc8IGaipZ0+ISZac1/v34doQq8MV1YyFVe3NSezjUWvxxCA=="
+  "yayin_tarihi": "2026-11-14T21:33:43.522Z",
+  "imza": "But0RcucwtpiX6LSszVtW5G+xHa6QtQhZtZbtk8VWZDNTYveXCY8aFyQbSdWCvMCyOBs+/YcH+jR+gfiZU+zAA=="
 }
